@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922658398219",
+    "project_id": "cahtapp-d018a",
+    "storage_bucket": "cahtapp-d018a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922658398219:android:73f39f2cd26c6663d9270e",
+        "android_client_info": {
+          "package_name": "dod.sh.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaLhWBHb8CuHmtmAPLineU5e70IssSmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
